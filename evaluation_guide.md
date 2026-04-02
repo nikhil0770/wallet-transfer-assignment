@@ -79,7 +79,16 @@ Questions:
 - Are important failure cases covered?
 - Would the tests catch a regression in idempotency or double spending?
 
-## 6. Overall Recommendation
+## 6. Development practices
+
+Look for:
+
+- Properly crafted topical commits with proper commit messages
+- Proper naming for functions, variables, and files
+- Good documentation (including the README, commit messages as already mentioned, PR note etc.)
+
+
+## 7. Overall Recommendation
 
 Suggested ratings:
 
